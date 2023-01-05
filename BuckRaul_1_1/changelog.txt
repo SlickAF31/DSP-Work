@@ -1,0 +1,6 @@
+Version 1.1
+- Cleaned up PWM structures
+- Added one PWM - can control Freq, Duty and DB (RED and FED)
+
+Version 1.0
+- Initial Version
